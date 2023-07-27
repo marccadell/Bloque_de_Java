@@ -24,3 +24,5 @@
 ### Ejercicio 22 Realizado! :white_check_mark:
 ### Ejercicio 23 Realizado! :white_check_mark:
 ### Ejercicio 24 Realizado! :white_check_mark:
+### Ejercicio 25 Realizado! :white_check_mark:
+### Ejercicio 26 Realizado! :white_check_mark:
